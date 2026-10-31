@@ -1,0 +1,11 @@
+[
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 1,
+  "hash": "add8b3c37135732470df2cc60c9421e5b7e7d0558f93c2bc2e18abb5f5a1c2c2",
+  "sealedAt": "2026-10-31T12:00:54.943Z",
+  "publishedAt": "2026-10-31T12:00:54.943Z"
+ }
+]
