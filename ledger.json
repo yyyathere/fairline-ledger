@@ -7,5 +7,23 @@
   "hash": "add8b3c37135732470df2cc60c9421e5b7e7d0558f93c2bc2e18abb5f5a1c2c2",
   "sealedAt": "2026-10-31T12:00:54.943Z",
   "publishedAt": "2026-10-31T12:00:54.943Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 2,
+  "hash": "c53cfafb989fdbb67dbe5d9cd4f4eeb3b8d6c35455672ef7c60b6ac41fe30da0",
+  "sealedAt": "2026-11-01T10:37:15.097Z",
+  "publishedAt": "2026-11-01T10:37:15.097Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 3,
+  "hash": "bf400aab9884e87f3c81b0b8cd9ef87883f3c4ec4a5b1aa2d9c846610cfc3721",
+  "sealedAt": "2026-11-01T10:37:15.097Z",
+  "publishedAt": "2026-11-01T10:37:15.097Z"
  }
 ]

@@ -8,9 +8,11 @@ table{border-collapse:collapse;width:100%;font-size:13px}td,th{border-bottom:1px
 .wrap{overflow-x:auto}footer{color:var(--mute);font-size:12px;margin-top:24px}</style></head><body>
 <h1>Pick Ledger — public pick ledger</h1>
 <p>Every pick is sealed with a SHA-256 hash before kick-off and revealed afterwards. Losses included. Market: 1X2 singles, flat 1 unit.</p>
-<p>Sealed: 1 · Revealed: 0 <span class="tag">reference only (n &lt; 30)</span><br>
+<p>Sealed: 3 · Revealed: 0 <span class="tag">reference only (n &lt; 30)</span><br>
 Hit rate — · Units 0 · ROI — (reference) · Avg CLV vs Pinnacle close — · Beat the close — (n=0)</p>
 <div class="wrap"><table><thead><tr><th>#</th><th>Sealed</th><th>Hash</th><th>Match</th><th>Pick</th><th>Result</th><th>CLV</th></tr></thead><tbody>
+<tr><td>#3</td><td>2026-11-01 10:37 UTC</td><td class="h">bf400aab9884e87f3c81b0b8cd9ef87883f3c4ec4a5b1aa2d9c846610cfc3721</td><td colspan="4" class="m">sealed — revealed after the match</td></tr>
+<tr><td>#2</td><td>2026-11-01 10:37 UTC</td><td class="h">c53cfafb989fdbb67dbe5d9cd4f4eeb3b8d6c35455672ef7c60b6ac41fe30da0</td><td colspan="4" class="m">sealed — revealed after the match</td></tr>
 <tr><td>#1</td><td>2026-10-31 12:00 UTC</td><td class="h">add8b3c37135732470df2cc60c9421e5b7e7d0558f93c2bc2e18abb5f5a1c2c2</td><td colspan="4" class="m">sealed — revealed after the match</td></tr>
 </tbody></table></div>
 <p class="m">Verify: sha256(canonical JSON of the revealed content + "|" + nonce) must equal the sealed hash. Raw rows: <a href="ledger.json">ledger.json</a>.</p>
