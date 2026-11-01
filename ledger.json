@@ -65,5 +65,45 @@
    "score": "1-0"
   },
   "revealedAt": "2026-11-01T15:42:38.405Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 1,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Netherlands Eredivisie",
+   "home": "Feyenoord",
+   "away": "Fortuna Sittard",
+   "kickoffUtc": "2026-10-31T15:30:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.17,
+   "pinnacleOdds": 1.15,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.12
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.18
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.15
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-10-31T12:00:54.943Z"
+  },
+  "nonce": "39b392ff6cc4903b0e228bad5ca484920c7a03d3b0d6a73ba12ee21ed981b9f2",
+  "result": {
+   "status": "LOSS",
+   "units": -1,
+   "score": "1-1"
+  },
+  "revealedAt": "2026-11-01T16:22:43.136Z"
  }
 ]
