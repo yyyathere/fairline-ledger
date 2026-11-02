@@ -105,5 +105,45 @@
    "score": "1-1"
   },
   "revealedAt": "2026-11-01T16:22:43.136Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 3,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Spain LaLiga",
+   "home": "Real Racing Club de Santander",
+   "away": "Real Madrid",
+   "kickoffUtc": "2026-11-01T15:15:00Z",
+   "market": "1X2",
+   "selection": "away",
+   "offeredOdds": 1.25,
+   "pinnacleOdds": 1.21,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.22
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.23
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.19
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-01T10:37:15.097Z"
+  },
+  "nonce": "9221031085e1ce49682a0bf172ba9186d1896d34be3de4fbf04b61eb7cf89191",
+  "result": {
+   "status": "WIN",
+   "units": 0.25,
+   "score": "0-3"
+  },
+  "revealedAt": "2026-11-02T15:19:23.382Z"
  }
 ]
