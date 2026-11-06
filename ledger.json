@@ -154,5 +154,45 @@
   "hash": "882b4543ffd4167f99295296cd880954b5ee023a95948fbc109230727898d689",
   "sealedAt": "2026-11-06T10:36:22.304Z",
   "publishedAt": "2026-11-06T10:36:22.304Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 4,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "England Premier League",
+   "home": "Everton",
+   "away": "Coventry City",
+   "kickoffUtc": "2026-11-06T20:00:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.73,
+   "pinnacleOdds": 1.69,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.67
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.74
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.61
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-06T10:36:22.304Z"
+  },
+  "nonce": "57f2aa044ee76c3a990b529d899ca144861a1a88054a2323d9b772fe4d39d7ff",
+  "result": {
+   "status": "WIN",
+   "units": 0.73,
+   "score": "3-1"
+  },
+  "revealedAt": "2026-11-06T22:32:18.614Z"
  }
 ]
