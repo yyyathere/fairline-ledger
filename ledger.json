@@ -328,5 +328,85 @@
    "score": "2-1"
   },
   "revealedAt": "2026-11-07T20:09:02.342Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 9,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Scotland Premiership",
+   "home": "St Mirren",
+   "away": "Rangers",
+   "kickoffUtc": "2026-11-07T20:00:00Z",
+   "market": "1X2",
+   "selection": "away",
+   "offeredOdds": 1.41,
+   "pinnacleOdds": 1.39,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.36
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.41
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.38
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "0382dbad49edefeccfcb848db7b71f2620802287a3590a5e9f7e3857f73992b6",
+  "result": {
+   "status": "WIN",
+   "units": 0.41,
+   "score": "0-2"
+  },
+  "revealedAt": "2026-11-07T22:39:16.917Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 10,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Spain LaLiga",
+   "home": "Valencia",
+   "away": "Real Madrid",
+   "kickoffUtc": "2026-11-07T20:00:00Z",
+   "market": "1X2",
+   "selection": "away",
+   "offeredOdds": 1.29,
+   "pinnacleOdds": 1.26,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.25
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.28
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.25
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "4f92e2a617614b5cb0a4a9d4454ae00f5cdfb8351b3281d5db41972bb8391a7a",
+  "result": {
+   "status": "WIN",
+   "units": 0.29,
+   "score": "0-3"
+  },
+  "revealedAt": "2026-11-07T22:39:16.917Z"
  }
 ]
