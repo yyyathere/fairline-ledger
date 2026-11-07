@@ -248,5 +248,85 @@
   "hash": "c3ef098de954fdb288b59295e87a17540d415a4aaa03219333a826db10a1a86c",
   "sealedAt": "2026-11-07T10:33:13.981Z",
   "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 5,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "England Premier League",
+   "home": "Arsenal",
+   "away": "Hull City",
+   "kickoffUtc": "2026-11-07T15:00:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.16,
+   "pinnacleOdds": 1.15,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.15
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.17
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.13
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "b1d75403d907c3a8570656d8dcaa4c5ea303bcbd8a78b155f4e2a6665d8c3d86",
+  "result": {
+   "status": "WIN",
+   "units": 0.16,
+   "score": "1-0"
+  },
+  "revealedAt": "2026-11-07T20:09:02.342Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 6,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Germany Bundesliga",
+   "home": "Borussia Dortmund",
+   "away": "Elversberg",
+   "kickoffUtc": "2026-11-07T14:30:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.35,
+   "pinnacleOdds": 1.33,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.3
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.35
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.29
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "9bf60882e41e93c1628d027899acb48e3adb1f0d3dd6d9418383a6523b78baae",
+  "result": {
+   "status": "WIN",
+   "units": 0.35,
+   "score": "2-1"
+  },
+  "revealedAt": "2026-11-07T20:09:02.342Z"
  }
 ]
