@@ -408,5 +408,45 @@
    "score": "0-3"
   },
   "revealedAt": "2026-11-07T22:39:16.917Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 7,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "France Ligue 1",
+   "home": "Paris Saint Germain",
+   "away": "Troyes",
+   "kickoffUtc": "2026-11-07T20:05:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.18,
+   "pinnacleOdds": 1.16,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.15
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.17
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.13
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "dbc98796205623f2f356325ad7441b6beddcaadc42495d7ee865ed9ef48e51fd",
+  "result": {
+   "status": "WIN",
+   "units": 0.18,
+   "score": "1-0"
+  },
+  "revealedAt": "2026-11-07T22:44:19.378Z"
  }
 ]
