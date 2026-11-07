@@ -448,5 +448,45 @@
    "score": "1-0"
   },
   "revealedAt": "2026-11-07T22:44:19.378Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 8,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Portugal Liga Portugal",
+   "home": "Sporting Lisbon",
+   "away": "Moreirense FC",
+   "kickoffUtc": "2026-11-07T20:30:00Z",
+   "market": "1X2",
+   "selection": "home",
+   "offeredOdds": 1.16,
+   "pinnacleOdds": 1.14,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.14
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.16
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.11
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-07T10:33:13.981Z"
+  },
+  "nonce": "131e0f8d0fb324d1a2247afba88c2bc10534766fff7282ab4dca7d9b0156591f",
+  "result": {
+   "status": "WIN",
+   "units": 0.16,
+   "score": "1-0"
+  },
+  "revealedAt": "2026-11-07T23:04:23.094Z"
  }
 ]
