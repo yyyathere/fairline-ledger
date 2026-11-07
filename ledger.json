@@ -194,5 +194,59 @@
    "score": "3-1"
   },
   "revealedAt": "2026-11-06T22:32:18.614Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 5,
+  "hash": "38ef73559928f3dd4db59cb1f0c29e2b59b2b1e31c80eb5023d6d35e360c0a1c",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 6,
+  "hash": "f59772953c7674f701f8dfd68cb89d8c9b4dff3430289a15999a41999237d24b",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 7,
+  "hash": "afc4a3c5e5ea81aac80f3a39024dd3bc95dab7368b5e091862c86972fc5ee750",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 8,
+  "hash": "62dddcfc76a865ed367059e526f077ca9b2700a038eb7db4a105abd5be28390f",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 9,
+  "hash": "ff4c81f344a99e742dc29f58974b01c013fd8ab479c2e97cd7caa836833d6b17",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 10,
+  "hash": "c3ef098de954fdb288b59295e87a17540d415a4aaa03219333a826db10a1a86c",
+  "sealedAt": "2026-11-07T10:33:13.981Z",
+  "publishedAt": "2026-11-07T10:33:13.981Z"
  }
 ]
