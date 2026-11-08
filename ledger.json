@@ -488,5 +488,14 @@
    "score": "1-0"
   },
   "revealedAt": "2026-11-07T23:04:23.094Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "seal",
+  "seq": 11,
+  "hash": "8387fb8c9686accfa07d952a32760af64424f04859a6dad4be87146fd11e0748",
+  "sealedAt": "2026-11-08T10:35:26.652Z",
+  "publishedAt": "2026-11-08T10:35:26.652Z"
  }
 ]
