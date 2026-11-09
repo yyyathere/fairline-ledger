@@ -497,5 +497,45 @@
   "hash": "8387fb8c9686accfa07d952a32760af64424f04859a6dad4be87146fd11e0748",
   "sealedAt": "2026-11-08T10:35:26.652Z",
   "publishedAt": "2026-11-08T10:35:26.652Z"
+ },
+ {
+  "v": 1,
+  "schema": "pickpub/v1",
+  "kind": "reveal",
+  "seq": 11,
+  "content": {
+   "schema": "pickpub/v1",
+   "league": "Portugal Liga Portugal",
+   "home": "CF Estrela",
+   "away": "Benfica",
+   "kickoffUtc": "2026-11-08T20:30:00Z",
+   "market": "1X2",
+   "selection": "away",
+   "offeredOdds": 1.24,
+   "pinnacleOdds": 1.21,
+   "available": [
+    {
+     "label": "William Hill",
+     "odds": 1.22
+    },
+    {
+     "label": "Betfair Exchange",
+     "odds": 1.23
+    },
+    {
+     "label": "Unibet",
+     "odds": 1.18
+    }
+   ],
+   "stakeUnits": 1,
+   "sealedAt": "2026-11-08T10:35:26.652Z"
+  },
+  "nonce": "8dbde3dd4cc6c2b232823452d86e4f22a0f6484e25845d49c4c4cf1b132f64bc",
+  "result": {
+   "status": "WIN",
+   "units": 0.24,
+   "score": "2-3"
+  },
+  "revealedAt": "2026-11-09T15:07:59.095Z"
  }
 ]
